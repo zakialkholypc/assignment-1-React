@@ -12,7 +12,7 @@ import Layout from "./MyComponantes/Layout/Layout";
 import Display from "./MyComponantes/displayimages/Display";
 import Home from "./MyComponantes/Home/Home";
 
-const router = createHashRouter([
+const router = createBrowserRouter([
   {
     path: "",
     element: <Layout />,
