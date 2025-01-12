@@ -7,5 +7,5 @@ export default defineConfig({
   // server: {
   //   port: 5000
   // },
-  base: '/react-last/'
+  base: '/assignment-1-React/'
 })
