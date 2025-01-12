@@ -110,6 +110,10 @@
   height: 100vh;
   min-height: 800px;
 }
+.error-page{
+  height: 100vh;
+  min-height: 800px;
+}
 .postfolio-container {
   height: 110vh;
   min-height: 1000px;
