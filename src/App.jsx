@@ -17,7 +17,7 @@ const router = createHashRouter([
     path: "",
     element: <Layout />,
     children: [
-      { path: "react-last/", element: <Home /> },
+      { path: "", element: <Home /> },
       { path: "home", element: <Home /> },
       { path: "about", element: <About /> },
       { path: "contact", element: <Contact /> },
